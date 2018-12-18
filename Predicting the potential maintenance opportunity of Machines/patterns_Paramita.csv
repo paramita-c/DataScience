@@ -1,0 +1,21 @@
+ condition,prediction,No_Of_Records,Support,Confidence,Lift
+Component Repair (no of times the component was repaired) > 26.5 and Error3 <= 3.5 and Sensor2_Median <= 446.5 and Sensor4_Mean <=40.5 and Sensor3_Median>=100.4,Component Replacement,6,1,1,1
+Component Repair (no of times the component was repaired) > 26.5 and Error3 <= 3.5 and Sensor2_Median >=446.5 and Sensor1_Min<=109.1 and Sensor3_Max<154 and Sensor3_Min ? 65.002 and Sensor2_Kurt <=0.223,Component Replacement,2,1,1,1
+Component Repair (no of times the component was repaired) > 26.5 and Error3 <= 3.5 and Sensor2_Median >=446.5 and Sensor1_Min>=109.1 and Sensor1_Skew ? 0.124 and Sensor1_Skew>= 0.117 and Sensor4_Mean>= 40.312,Component Replacement,2,1,1,1
+Component Repair (no of times the component was repaired) > 26.5 and Error3 >= 3.5 and Sensor3_Max>=148.556 and Component Repair >= 32.5 and ServicePeriod >=15.5 and Sensor3_Kurt >= 0.583,Component Replacement,6,1,1,1
+Component Repair (no of times the component was repaired) > 26.5 and Error3 >= 3.5 and Sensor3_Max>=148.556 and Component Repair <= 32.5 and Sensor4_Mean ? 40.194,Component Replacement,3,1,1,1
+Component Repair (no of times the component was repaired) > 26.5 and Error3<=3.5 and Sensor2_Median ? 446.598 and Sensor4_Mean ? 40.345,Component Replacement,6,1,1,1
+Component Repair (no of times the component was repaired) > 26.5 and Error3<=3.5 and Sensor2_Median>= 446.598 and Sensor1_Min ? 109.107 and Sensor3_Max ? 154.584 and Sensor3_Min ? 65.002 ,Component Replacement,2,1,1,1
+Component Repair (no of times the component was repaired) > 26.5 and Error3<=3.5 and Sensor2_Median>= 446.598 and Sensor1_Min ? 109.107 and Sensor3_Max ? 154.584 and Sensor3_Min ? 65.002 and LastCompReplaceDays ? 310.5,Component Replacement,2,1,1,1
+Component Repair (no of times the component was repaired) > 26.5 and Error3<=3.5 and Sensor2_Median ? 446.598 and Sensor4_Mean ? 40.345 and Sensor3_Median >= 100.475,Component Replacement,6,1,1,1
+Component Repair (no of times the component was repaired) <=26.5 and Sensor3_Skew ? 0.332 and Error2 >= 2.5 and ComponentAttended3 ? 8.5 and Sensor2_Skew ? -0.167 and Sensor4_Mean >= 40.538,Component Replacement,2,1,1,1
+Component Repair (no of times the component was repaired) <=26.5 and Sensor3_Skew ? 0.332 and Error2 >=2.5 and ComponentAttended3 >= 8.5,Component Repair,19,1,1,1
+Component Repair (no of times the component was repaired) <=26.5 and Sensor3_Skew ? 0.332 and Error2 <=2.5,Component Repair,21,1,1,1
+Component Repair (no of times the component was repaired) <=26.5 and Sensor3_Skew >=0.332 and Sensor4_Kurt >=0.573 and Sensor3_Kurt ? 1.456,Component Repair,7,1,1,1
+Component Repair (no of times the component was repaired) <=26.5 and Sensor3_Skew >=0.332 and Sensor4_Kurt >=0.573 and Sensor2_Std ? 52.019 and Sensor2_Mean ? 447.493,Component Repair,8,1,1,1
+Component Repair (no of times the component was repaired) > 26.5 and Error3<=3.5 and Sensor2_Median >= 446.598 and Sensor1_Min ? 109.107 and Sensor3_Max ? 154.584 and Sensor3_Min ? 65.002,Component Repair,19,1,1,1
+Component Repair (no of times the component was repaired) > 26.5 and Error3<=3.5 and Sensor2_Median >= 446.598 and Sensor1_Min >= 109.107 and Sensor1_Skew ? 0.124 and Sensor1_Skew >=  0.117 and Sensor4_Mean ? 40.312,Component Repair,4,1,1,1
+Component Repair (no of times the component was repaired) > 26.5 and Error3<=3.5 and Sensor2_Median >= 446.598 and Sensor1_Min >= 109.107 and Sensor1_Skew ? 0.124 and Sensor1_Skew >=  0.117 and LastCompReplaceDays >= 426.0 and Sensor2_Kurt ? 0.193,Component Repair,7,1,1,1
+Component Repair (no of times the component was repaired) > 26.5 and Error3<=3.5 and Sensor2_Median >= 446.598 and Sensor1_Min >= 109.107 and Sensor1_Skew ? 0.124 and Sensor1_Skew >=  0.117 and LastCompReplaceDays <=426.0 and Sensor4_Max >= 69.255,Component Repair,7,1,1,1
+Component Repair (no of times the component was repaired) > 26.5 and Error3>=3.5 and Sensor2_Median ? 446.598 and Sensor4_Mean ? 40.23,Component Repair,8,1,1,1
+Component Repair (no of times the component was repaired) > 26.5 and Error3>=3.5 and Sensor2_Median >=  446.598 and Sensor1_Min ? 109.107 and Sensor3_Max ? 154.584 and Sensor3_Min ? 65.002 and LastCompReplaceDays ? 310.5,Component Repair,12,1,1,1
