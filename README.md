@@ -79,3 +79,26 @@ o	Clustering and Random Forest – Data was divided into 3 clusters and then use
 o	XGBoost – top 30 attributes were used and XGBoost model was tuned with optimum hyper parameters
 o	Stacked Ensemble of kNN, random forest and XGBoost  – 3 weak learners were stacked to come up with a strong classifier.
 ************************************************************************************************************************************
+
+Basic Commands in R and Python
+-------------------------------
+Files contain most commonly used R and Python functions
+************************************************************************************************************************************
+
+Big Data using PySpark and SparkSQL
+------------------------------------
+The files contain basic data manipulation using SparkSQL and some machine learning model building (using Pipeline) in PySpark
+************************************************************************************************************************************
+
+Data Pre-Processing and Data Visualization
+-------------------------------------------
+Univariate, Bi-variate and Multivariate analysis of continuous and categorical variables through visualization. Basic Data Pre-Processing methods in R.
+************************************************************************************************************************************
+
+Machine Learning Model Building in R
+-------------------------------------
+Some most commonly used ML algorithms in R.
+************************************************************************************************************************************
+
+
+
