@@ -1,0 +1,131 @@
+placeID,latitude,longitude,name,state,alcohol,smoking_area,price,franchise,area
+132560,23.7523041,-99.1669133,puesto de gorditas,Tamaulipas,No_Alcohol_Served,permitted,low,f,open
+132561,23.726819,-99.1265059,cafe ambar,?,No_Alcohol_Served,none,low,f,closed
+132564,23.7309245,-99.1451848,churchs,?,No_Alcohol_Served,none,low,f,closed
+132572,22.1416471,-100.9927118,Cafe Chaires,SLP,No_Alcohol_Served,not permitted,low,f,closed
+132583,18.9222904,-99.234332,McDonalds Centro,Morelos,No_Alcohol_Served,not permitted,low,t,closed
+132584,23.7523648,-99.1652879,Gorditas Dona Tota,?,No_Alcohol_Served,not permitted,medium,t,closed
+132594,23.7521677,-99.165709,tacos de barbacoa enfrente del Tec,?,No_Alcohol_Served,not permitted,low,f,open
+132608,23.7588052,-99.1651297,Hamburguesas La perica,Tamaulipas,No_Alcohol_Served,permitted,low,t,open
+132609,23.7602683,-99.1658646,Pollo_Frito_Buenos_Aires,Tamaulipas,No_Alcohol_Served,not permitted,low,t,closed
+132613,23.7529035,-99.165076,carnitas_mata,Tamaulipas,No_Alcohol_Served,permitted,medium,t,closed
+132626,23.7375834,-99.1351318,la perica hamburguesa,Tamaulipas,No_Alcohol_Served,none,medium,t,closed
+132630,23.7529305,-99.1644725,palomo tec,Tamaulipas,No_Alcohol_Served,none,low,f,closed
+132654,23.7355234,-99.1295877,Carnitas Mata  Calle 16 de Septiembre,Tamaulipas,No_Alcohol_Served,none,low,f,closed
+132660,23.7529428,-99.1646791,carnitas mata calle Emilio Portes Gil,Tamaulipas,No_Alcohol_Served,none,low,f,closed
+132663,23.7525107,-99.1669536,tacos abi,Tamaulipas,No_Alcohol_Served,none,low,f,closed
+132665,23.7367977,-99.1342413,TACOS CORRECAMINOS,Tamaulipas,No_Alcohol_Served,none,low,f,closed
+132667,23.7526973,-99.1633594,little pizza Emilio Portes Gil,Tamaulipas,No_Alcohol_Served,none,low,t,closed
+132668,23.738212,-99.1519547,TACOS EL GUERO,Tamaulipas,No_Alcohol_Served,none,low,f,closed
+132706,23.7292162,-99.1323571,Gorditas Dona Tota,Tamaulipas,No_Alcohol_Served,not permitted,medium,t,closed
+132715,23.7324226,-99.1586602,tacos de la estacion,?,No_Alcohol_Served,none,low,f,open
+132717,23.7318602,-99.1504365,tortas hawai,?,No_Alcohol_Served,not permitted,medium,f,closed
+132723,22.1489337,-101.019845,Gordas de morales,SLP,Full_Bar,section,medium,f,closed
+132732,23.7543569,-99.171288,Taqueria EL amigo ,Tamaulipas,No_Alcohol_Served,none,low,f,open
+132733,23.7527071,-99.1625655,Little Cesarz,Tamaulipas,No_Alcohol_Served,not permitted,medium,t,closed
+132740,23.7521965,-99.1666317,Carreton de Flautas y Migadas,Tamaulipas,No_Alcohol_Served,permitted,low,f,open
+132754,22.1477379,-100.9906163,Cabana Huasteca,SLP,No_Alcohol_Served,none,medium,f,closed
+132755,22.153324,-101.0195459,La Estrella de Dimas,SLP,No_Alcohol_Served,none,medium,f,closed
+132766,18.9101777,-99.2315438,Mikasa,Morelos,Wine-Beer,none,medium,f,closed
+132767,18.8820871,-99.1630268,Restaurant Familiar El Chino,Morelos,Wine-Beer,permitted,medium,f,open
+132768,18.9257734,-99.2326355,Mariscos Tia Licha,Morelos,No_Alcohol_Served,not permitted,medium,t,closed
+132773,18.8699929,-99.2103195,El cotorreo,Morelos,Wine-Beer,permitted,low,f,open
+132825,22.1473922,-100.983092,puesto de tacos,SLP,No_Alcohol_Served,none,low,f,open
+132830,22.1508494,-100.9397522,Rincon Huasteco,?,No_Alcohol_Served,none,low,f,closed
+132834,22.156469,-100.98554,Gorditas Doa Gloria,SLP,No_Alcohol_Served,not permitted,low,f,closed
+132845,22.1262926,-100.9007764,Cenaduria El Rincón de Tlaquepaque,SLP,No_Alcohol_Served,none,medium,f,closed
+132846,22.1422732,-100.9426537,el lechon potosino ,SLP,No_Alcohol_Served,permitted,low,f,open
+132847,22.1443365,-100.9373825,don burguers,SLP,No_Alcohol_Served,none,low,f,open
+132851,22.136872,-100.9345736,KFC,SLP,No_Alcohol_Served,not permitted,low,f,closed
+132854,22.1378633,-100.9383273,Sirlone,SLP,Wine-Beer,none,medium,f,closed
+132856,22.1513782,-100.9746337,Unicols Pizza,SLP,Wine-Beer,none,low,f,closed
+132858,22.1312917,-100.9371941,Hamburguesas Valle Dorado,SLP,No_Alcohol_Served,none,low,f,closed
+132861,22.1480965,-101.0173023,Carls Jr,SLP,No_Alcohol_Served,not permitted,medium,t,closed
+132862,22.1506429,-100.9870148,La Posada del Virrey,SLP,Wine-Beer,none,high,f,closed
+132866,22.1412198,-100.9313107,Chaires,SLP,No_Alcohol_Served,not permitted,medium,f,closed
+132869,22.1412384,-100.9239252,Dominos Pizza,SLP,No_Alcohol_Served,not permitted,medium,f,closed
+132870,22.1430781,-100.9354788,Tortas y hamburguesas el gordo,SLP,No_Alcohol_Served,not permitted,low,f,closed
+132872,22.1735955,-100.9946027,Pizzeria Julios,SLP,No_Alcohol_Served,not permitted,medium,f,closed
+132875,22.1499013,-100.9937793,shi ro ie,?,Wine-Beer,section,high,t,open
+132877,22.1353639,-100.9349477,sirloin stockade,?,No_Alcohol_Served,none,low,f,closed
+132884,22.1395776,-101.0278863,dairy queen,?,No_Alcohol_Served,none,low,f,closed
+132885,22.1795169,-100.9584358,Hamburguesas saul,SLP,No_Alcohol_Served,none,low,f,closed
+132921,22.150305,-100.9891337,crudalia,?,Wine-Beer,section,low,f,open
+132922,22.1511348,-100.9823115,cafe punta del cielo,?,No_Alcohol_Served,permitted,medium,f,closed
+132925,22.1534997,-100.976243,el pueblito,?,Wine-Beer,not permitted,medium,f,closed
+132937,22.1500193,-100.9799203,rockabilly ,SLP,Full_Bar,section,low,f,closed
+132951,22.1544736,-100.9858091,VIPS,SLP,No_Alcohol_Served,not permitted,low,f,closed
+132954,22.1603808,-100.9880447,la parroquia,SLP,No_Alcohol_Served,not permitted,medium,t,closed
+132955,22.147622,-101.0102749,emilianos,SLP,Wine-Beer,none,low,t,closed
+132958,22.1449787,-101.0056829,tacos los volcanes,SLP,No_Alcohol_Served,none,low,t,closed
+134975,18.940828,-99.215426,Rincon del Bife,?,Full_Bar,section,high,f,closed
+134976,18.916654,-99.22711,Log Yin,?,No_Alcohol_Served,none,low,f,closed
+134983,18.948657,-99.235361,Restaurant and Bar and Clothesline Carlos N Charlies,Morelos,Full_Bar,section,high,f,closed
+134986,18.928798,-99.239513,Restaurant Las Mananitas,Morelos,Wine-Beer,none,high,f,closed
+134987,18.932725,-99.225211,Chilis Cuernavaca,Morelos,Wine-Beer,none,medium,f,closed
+134992,18.936683,-99.247366,Restaurant Teely,Morelos,Wine-Beer,section,high,f,closed
+134996,18.923429,-99.216413,Sanborns Casa Piedra,Morelos,Wine-Beer,only at bar,medium,t,closed
+134999,18.915421,-99.184871,Kiku Cuernavaca,Morelos,No_Alcohol_Served,none,medium,f,closed
+135000,18.870565,-99.226938,Restaurant los Pinos,Morelos,No_Alcohol_Served,none,medium,f,closed
+135001,18.941859,-99.241927,Vips,Morelos,Wine-Beer,none,medium,t,closed
+135011,18.91061,-99.169539,Los Vikingos,Morelos,No_Alcohol_Served,none,medium,t,closed
+135013,18.917441,-99.165945,Giovannis,Morelos,No_Alcohol_Served,none,low,f,closed
+135016,18.869347,-99.209944,Arrachela Grill,Morelos,No_Alcohol_Served,none,medium,f,closed
+135018,18.859803,-99.222164,El Oceano Dorado,Morelos,Full_Bar,permitted,medium,f,open
+135019,18.875011,-99.159422,Restaurant Bar Coty y Pablo,Morelos,No_Alcohol_Served,none,low,f,closed
+135021,18.933537,-99.222497,Subway,Morelos,No_Alcohol_Served,not permitted,low,t,closed
+135025,22.14955,-100.97797,El Rincon de San Francisco,SLP,No_Alcohol_Served,none,medium,f,closed
+135026,22.148665,-101.001273,la Cantina,SLP,Full_Bar,none,high,f,closed
+135027,22.147145,-100.974494,Restaurant Orizatlan,SLP,Wine-Beer,none,medium,f,closed
+135028,22.146658,-100.987219,La Virreina,SLP,Wine-Beer,none,medium,f,closed
+135030,22.14788,-100.989472,Preambulo Wifi Zone Cafe,SLP,No_Alcohol_Served,none,medium,f,closed
+135032,22.152481,-100.973486,Cafeteria y Restaurant El Pacifico,SLP,Wine-Beer,section,medium,f,closed
+135033,22.14161,-100.973142,Restaurant El Muladar de Calzada,SLP,No_Alcohol_Served,section,medium,f,closed
+135034,22.140517,-101.021422,Michiko Restaurant Japones,SLP,No_Alcohol_Served,none,medium,f,closed
+135035,22.145813,-101.018032,El Mundo de la Pasta,SLP,No_Alcohol_Served,section,high,f,closed
+135038,22.155651,-100.977767,Restaurant la Chalita,SLP,No_Alcohol_Served,section,medium,f,closed
+135039,22.145893,-100.97487,Restaurant de Mariscos de Picon,SLP,No_Alcohol_Served,section,low,f,closed
+135040,22.135617,-100.969709,Restaurant los Compadres,SLP,Wine-Beer,none,high,f,closed
+135041,22.15106,-100.977659,Luna Cafe,SLP,Wine-Beer,none,medium,f,closed
+135042,22.159357,-100.973411,Restaurant Oriental Express,SLP,No_Alcohol_Served,none,medium,f,closed
+135043,22.185756,-100.944518,pizza clasica,SLP,No_Alcohol_Served,none,medium,f,closed
+135044,22.141848,-100.997475,Restaurant Wu Zhuo Yi,SLP,No_Alcohol_Served,none,medium,f,closed
+135045,22.151189,-100.98179,Restaurante la Gran Via,SLP,Wine-Beer,none,high,f,closed
+135046,22.141282,-101.002958,Restaurante El Reyecito,SLP,No_Alcohol_Served,none,medium,f,closed
+135047,22.150921,-100.993828,Restaurante Casa de las Flores,SLP,Wine-Beer,section,high,f,closed
+135048,22.142017,-100.999246,Restaurante Bar Fu-hao,SLP,Wine-Beer,none,high,f,closed
+135049,22.135011,-101.0286,Restaurante de Mariscos la Langosta,SLP,No_Alcohol_Served,none,medium,f,closed
+135050,22.174887,-100.970825,Restaurante la Estrella de Dima,SLP,Wine-Beer,none,high,f,closed
+135051,22.151189,-100.977058,Restaurante Versalles,SLP,No_Alcohol_Served,section,low,f,closed
+135052,22.150981,-100.977412,La Cantina Restaurante,SLP,Full_Bar,none,high,f,closed
+135053,22.178931,-101.012861,La Fontana Pizza Restaurante and Cafe,SLP,No_Alcohol_Served,section,high,f,closed
+135054,22.140626,-100.915657,Restaurante y Pescaderia Tampico,SLP,No_Alcohol_Served,none,high,f,closed
+135055,22.148854,-101.008472,la Cochinita Pibil Restaurante Yucateco,SLP,No_Alcohol_Served,section,high,f,closed
+135057,22.145992,-100.955118,El Herradero Restaurante and Bar,SLP,Wine-Beer,section,medium,f,closed
+135058,22.165587,-101.001273,Restaurante Tiberius,SLP,No_Alcohol_Served,none,medium,t,closed
+135059,22.145108,-100.989547,Restaurant Bar Hacienda los Martinez,SLP,Wine-Beer,section,medium,f,closed
+135060,22.156883,-100.978485,Restaurante Marisco Sam,SLP,No_Alcohol_Served,none,medium,f,closed
+135062,22.153703,-100.979033,Restaurante El Cielo Potosino,SLP,No_Alcohol_Served,none,medium,f,closed
+135063,22.156724,-100.975556,Restaurante Alhondiga,SLP,No_Alcohol_Served,none,medium,f,closed
+135064,22.154687,-100.996617,Restaurante El Chivero S.A. de C.V.,SLP,No_Alcohol_Served,none,high,f,closed
+135065,22.14958,-100.999557,El angel Restaurante,SLP,Wine-Beer,section,high,f,closed
+135066,22.16835,-100.972466,Restaurante Guerra,SLP,Wine-Beer,section,high,f,closed
+135069,22.140129,-100.944872,Abondance Restaurante Bar,SLP,Wine-Beer,none,low,f,closed
+135070,22.152918,-100.915164,Restaurante 75,SLP,No_Alcohol_Served,none,medium,f,closed
+135071,22.126375,-100.910926,Restaurante la Cantina,SLP,Full_Bar,section,medium,f,closed
+135072,22.149192,-101.002936,Sushi Itto,SLP,No_Alcohol_Served,none,medium,f,closed
+135073,22.147175,-100.974269,Restaurante Bar El Gallinero,SLP,Wine-Beer,section,high,f,closed
+135074,22.149689,-100.999525,Restaurante la Parroquia Potosina,SLP,Wine-Beer,section,high,f,closed
+135075,22.139573,-100.991564,Mariscos El Pescador,SLP,No_Alcohol_Served,none,medium,f,closed
+135076,22.181017,-100.973614,Restaurante Pueblo Bonito,SLP,Wine-Beer,none,high,f,closed
+135079,22.156376,-100.998355,Koye Sushi,SLP,No_Alcohol_Served,none,high,f,closed
+135080,22.145008,-100.997969,los Toneles,SLP,No_Alcohol_Served,section,high,f,closed
+135081,22.164842,-100.960493,El Club,SLP,No_Alcohol_Served,none,medium,f,closed
+135082,22.151448,-100.915099,la Estrella de Dimas,SLP,No_Alcohol_Served,none,medium,f,closed
+135085,22.150802,-100.98268,Tortas Locas Hipocampo,SLP,No_Alcohol_Served,not permitted,medium,f,closed
+135086,22.141421,-101.013955,Mcdonalds Parque Tangamanga,SLP,No_Alcohol_Served,not permitted,medium,t,closed
+135088,18.8760113,-99.2198896,Cafeteria cenidet,Morelos,No_Alcohol_Served,not permitted,low,f,closed
+135104,23.7529821,-99.1684341,vips,?,Full_Bar,not permitted,medium,t,closed
+135106,22.1497088,-100.9760928,El Rinc�n de San Francisco,SLP,Wine-Beer,only at bar,medium,f,open
+135108,22.1362534,-100.9335852,Potzocalli,?,No_Alcohol_Served,none,low,f,closed
+135109,18.9217848,-99.2353499,Paniroles,?,Wine-Beer,not permitted,medium,f,closed
